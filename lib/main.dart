@@ -37,13 +37,13 @@ class HomePageState extends State<HomePage> {
                       child: new Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: <Widget>[
-                          new Text("Name : " + myData[0]['name']),
+                          new Text("Name : " + myData[index]['name']),
                           new Padding(padding: const EdgeInsets.only(top: 2.0)),
-                          new Text("Age : " + myData[0]['age']),
+                          new Text("Age : " + myData[index]['age']),
                           new Padding(padding: const EdgeInsets.only(top: 2.0)),
-                          new Text("Mobile : " + myData[0]['mobile']),
+                          new Text("Mobile : " + myData[index]['mobile']),
                           new Padding(padding: const EdgeInsets.only(top: 2.0)),
-                          new Text("Gender : " + myData[0]['gender']),
+                          new Text("Gender : " + myData[index]['gender']),
                         ],
                       ),
                     ),

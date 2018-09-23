@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Ravi Patel",
+    "age" : "23",
+    "mobile" : "7041384184",
+    "gender" : "male"
+  },
+  {
+    "name" : "Nikunj Pokar",
+    "age" : "20",
+    "mobile" : "9408062532",
+    "gender" : "male"
+  },
+  {
+    "name" : "Mitesh Vasani",
+    "age" : "30",
+    "mobile" : "9426655866",
+    "gender" : "male"
+  },
+  {
+    "name" : "Payal Mavani",
+    "age" : "25",
+    "mobile" : "7041384184",
+    "gender" : "female"
+  }
+]
